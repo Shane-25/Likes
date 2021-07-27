@@ -1,0 +1,153 @@
+.topbox {
+    width: 585px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-left: 523px;
+    font: 30px arial;
+    padding-left: 20px;
+}
+.secondbox {
+    width: 605px;
+    height: 50px;
+    /* background-color: gray; */
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-left: 523px;
+    font: 30px arial;
+    justify-content: center;
+}
+.container {
+    width: 605px;
+    height: 500px;
+    /* background-color: teal; */
+    margin-left: 523px;
+    display: flex;
+}
+.leftbox {
+    width: 150px;
+    height: 200px;
+    background-color: white;
+    border: 3px solid black;
+    text-align: center;
+}
+#user-pic {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 8px;
+}
+.rightbox {
+    width: 440px;
+    height: 398px;
+    /* background-color:blueviolet; */
+    margin-left: 20px;
+}
+.feed1 {
+    width: 428px;
+    height: 120px;
+    background-color:white;
+    border: 3px solid black;
+}
+.feed1-top {
+    width: 448px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#count1 {
+    margin-left: 140px;
+}
+h2, h3, #btn-like1, #btn-like2, #btn-like3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn-like1 {
+    color: black;
+    background-color:orange;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 1px black;
+    width: 60px;
+    height: 25px;
+    margin: 40px;
+}
+.feed1-btm {
+    width: 408px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.feed2 {
+    width: 428px;
+    height: 120px;
+    background-color:white;
+    border: 3px solid black;
+    margin-top: 10px;
+}
+.feed2-top {
+    width: 448px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#btn-like2 {
+    color: black;
+    background-color:orange;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 1px black;
+    width: 60px;
+    height: 25px;
+    margin: 40px;
+}
+.feed2-btm {
+    width: 408px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#count2 {
+    margin-left: 90px;
+}
+.feed3 {
+    width: 428px;
+    height: 120px;
+    background-color:white;
+    border: 3px solid black;
+    margin-top: 10px;
+}
+.feed3-top {
+    width: 448px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#btn-like3 {
+    color: black;
+    background-color:orange;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 1px black;
+    width: 60px;
+    height: 25px;
+    margin: 40px;
+}
+.feed3-btm {
+    width: 380px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+#count3 {
+    margin-left: 145px;
+}
+#span1, #avatar {
+    color:royalblue;
+    text-decoration: underline;
+}
